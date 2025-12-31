@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Mohammed%20Sana%20Ullah&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://i.ibb.co.com/6K3ys6d/sana-ullah-banner.png" />
 </p>
 
 <h2 align="center">Junior Frontend Web Developer</h2>
