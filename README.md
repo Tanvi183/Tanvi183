@@ -16,7 +16,7 @@ I'm continuously learning new technologies and improving my problem-solving skil
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js** and modern React patterns  
-- 🏗️ Working on a **tourism website** project  
+- 🏗️ Working on a **Food delivery website** project  
 - 🎯 Improving UI/UX and frontend performance  
 - 📚 Learning best practices for scalable frontend development  
 
@@ -43,10 +43,10 @@ I'm continuously learning new technologies and improving my problem-solving skil
 
 ## 🌐 Social Links
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-sana-ullah-tanvi380949/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/Tanvi183/Tanvi183/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
