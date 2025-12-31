@@ -3,10 +3,6 @@
   <img src="sana_ullah_banner.png" />
 </p>
 
-<h2 align="center">Junior Frontend Web Developer</h2>
-
----
-
 # 💫 About Me:
 Hi! I'm Mohammed Sana Ullah, a passionate Junior Frontend Web Developer who loves building responsive, user-friendly web applications.<br>I mainly work with React, JavaScript, and modern UI libraries to create clean and interactive interfaces.<br>I'm continuously learning new technologies and improving my problem-solving skills through real-world projects.
 
