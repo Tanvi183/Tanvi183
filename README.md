@@ -29,7 +29,7 @@ Hi! I'm Mohammed Sana Ullah, a passionate Junior Frontend Web Developer who love
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,php,laravel,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,firebase,mongodb,mysql,php,laravel,redis" />
 </p>
 
 ### 🧰 Tools & Technologies
@@ -44,16 +44,10 @@ Hi! I'm Mohammed Sana Ullah, a passionate Junior Frontend Web Developer who love
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Tanvi183&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
