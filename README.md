@@ -5,7 +5,7 @@
 
 <h2 align="center">Junior Frontend Web Developer</h2>
 
---
+---
 
 ## 👋 About Me
 Hi! I'm **Mohammed Sana Ullah**, a passionate **Junior Frontend Web Developer** who loves building responsive, user-friendly web applications.  
