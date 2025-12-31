@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/6K3ys6d/sana-ullah-banner.png" />
+  <img src="https://i.ibb.co.com/1Yyb0ZZ3/sana-ullah-banner.png" />
 </p>
 
 <h2 align="center">Junior Frontend Web Developer</h2>
