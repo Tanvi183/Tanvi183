@@ -101,9 +101,9 @@
 
 ## 🔥 <b>GITHUB STREAK & CONTRIBUTIONS:</b>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Tanvi183&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvi183&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Tanvi183&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvi183&theme=react-dark&hide_border=false" alt="GitHub Activity Graph" />
 </div>
 
 <br/>
