@@ -1,55 +1,97 @@
-<!-- Banner Image -->
+<!--- banner --->
 <p align="center">
-  <img src="sana_ullah_banner.png" />
+  <img src="sana_ullah_banner.png" alt="Mohammed Sana Ullah">
 </p>
 
-# 💫 About Me:
-Hi! I'm <b>Mohammed Sana Ullah</b>, a passionate <b>Junior Frontend Web Developer</b> who loves building responsive, user-friendly web applications.<br>I mainly work with React, JavaScript, and modern UI libraries to create clean and interactive interfaces.<br>I'm continuously learning new technologies and improving my problem-solving skills through real-world projects.
+<br/>
 
----
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mohammed Sana Ullah</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Junior+Frontend+Web+Developer;React+%26+JavaScript+Enthusiast;Continuous+Learner;Passionate+about+UI%2FUX" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🏗️ Working on a **Food delivery website** project  
-- 🎯 Improving UI/UX and frontend performance  
-- 📚 Learning best practices for scalable frontend development  
+<br/>
 
----
+<!--- about --->
+- 👋 Hi, I’m **[@Tanvi183](https://github.com/Tanvi183)**
+- 🖥️ I mainly work with **React, JavaScript, and modern UI libraries** to create clean and interactive interfaces.
+- 🏗️ I'm currently working on a **Food delivery website** project.
+- 🌱 I’m currently learning and exploring **Next.js and modern React patterns**.
+- 🎯 My current goal is improving **UI/UX and frontend performance**, and learning best practices for scalable frontend development.
+- 📫 Feel free to reach me out via **[Email](mailto:mneshat7@gmail.com)**
+  
+<br/>
 
-## 🛠️ Skills
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+
+<div>
+  <p align="left">
+    <a href="https://facebook.com/sana.ullah.437422" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://linkedin.com/in/mohammed-sana-ullah-tanvi380949" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mneshat7@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Tanvi183" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<!--- tech-stack --->
+## 💻 <b>TECH STACK:</b>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
+  </a>
 </p>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,firebase,mongodb,mysql,php,laravel,redis" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,firebase,mongodb,mysql,php,laravel,redis" alt="Backend Skills" />
+  </a>
 </p>
 
 ### 🧰 Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress" alt="Tools" />
+  </a>
 </p>
 
----
+<br/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sana.ullah.437422) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-sana-ullah-tanvi380949) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mneshat7@gmail.com)
+<!--- stats --->
+## 📊 <b>GITHUB STATS:</b>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=2B90FF&icon_color=2B90FF&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=2B90FF&text_color=c9d1d9" alt="Top Languages" />
+</div>
 
----
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tanvi183&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🔥 <b>GITHUB STREAK & CONTRIBUTIONS:</b>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tanvi183&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Tanvi183&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
 
----
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tanvi183&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-⭐ **Feel free to explore my repositories and connect with me!**
+<div align="center">
+  ⭐ <b>Feel free to explore my repositories and connect with me!</b>
+</div>
