@@ -65,12 +65,12 @@
 
 ### Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel" alt="Frameworks & Libraries" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel" alt="Frameworks & Libraries" />&nbsp;&nbsp;<img src="axios.svg" alt="Axios" />
 </p>
 
 ### Database & Model:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" alt="Database & Model" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" alt="Database & Model" />&nbsp;&nbsp;<img src="eloquent.svg" alt="Eloquent" />
 </p>
 
 ### Deployment Platform:
@@ -85,7 +85,7 @@
 
 ### Tools & Technologies:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman,npm,vite" alt="Tools & Technologies" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,postman,npm,vite" alt="Tools & Technologies" />&nbsp;&nbsp;<img src="jwt.svg" alt="JWT" />
 </p>
 
 <br/>
