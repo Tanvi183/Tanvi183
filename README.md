@@ -60,7 +60,7 @@
 
 ### CSS Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,spline" alt="CSS Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks & Libraries" />
   <img src="daisyui.svg" alt="daisyUI" />
 </p>
 
