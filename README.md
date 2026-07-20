@@ -93,8 +93,8 @@
 <!--- stats --->
 ## 📊 <b>GITHUB STATS:</b>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=2B90FF&icon_color=2B90FF&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=2B90FF&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&bg_color=0D1117&title_color=2B90FF&icon_color=2B90FF&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tanvi183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=0D1117&title_color=2B90FF&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 <br/>
