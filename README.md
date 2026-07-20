@@ -18,11 +18,13 @@
 
 <!--- about --->
 - 👋 Hi, I’m **[@Tanvi183](https://github.com/Tanvi183)**
-- 🖥️ I mainly work with **React, JavaScript, and modern UI libraries** to create clean and interactive interfaces.
-- 🏗️ I'm currently working on a **Food delivery website** project.
-- 🌱 I’m currently learning and exploring **Next.js and modern React patterns**.
-- 🎯 My current goal is improving **UI/UX and frontend performance**, and learning best practices for scalable frontend development.
-- 📫 Feel free to reach me out via **[Email](mailto:mneshat7@gmail.com)**
+- 🖥️ I’m currently working on **React.js, Next.js, Typescript and tailwind css** for frontend development.
+- 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
+- 🛠️ I’m currently learning **php, Laravel, Docker and AWS**.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
+- 🌐 Explore My Portfolio **[Tanvi183](https://mohammed-sana-portfolio-10.vercel.app/)** and My **[Resume](#)**
+- 🎯 My current goal is improving **UI/UX and frontend performance**, and learning best practices for scalable Full-Stack Website development.
+- 📫 Feel free to reach me out **[Email](mailto:mneshat7@gmail.com)**
   
 <br/>
 
