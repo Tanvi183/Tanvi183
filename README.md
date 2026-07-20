@@ -60,13 +60,12 @@
 
 ### CSS Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks & Libraries" />
-  <img src="daisyui.svg" alt="daisyUI" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks & Libraries" />&nbsp;&nbsp;<img src="daisyui.svg" alt="daisyUI" />
 </p>
 
 ### Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel" alt="Frameworks & Libraries" />
 </p>
 
 ### Database & Model:
