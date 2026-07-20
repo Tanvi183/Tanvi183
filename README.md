@@ -53,37 +53,38 @@
 <!--- tech-stack --->
 ## 💻 <b>TECHNOLOGY STACK:</b>
 
-**Languages:**
+### Languages:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="Languages" />
 </p>
 
-**CSS Frameworks & Libraries:**
+### CSS Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,daisyui,spline" alt="CSS Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,spline" alt="CSS Frameworks & Libraries" />
+  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" />
 </p>
 
-**JavaScript Frameworks & Libraries:**
+### Frameworks & Libraries:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="JavaScript Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Frameworks & Libraries" />
 </p>
 
-**Database & Model:**
+### Database & Model:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" alt="Database & Model" />
 </p>
 
-**Deployment Platform:**
+### Deployment Platform:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment Platform" />
 </p>
 
-**Design & Graphics:**
+### Design & Graphics:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design & Graphics" />
 </p>
 
-**Tools & Technologies:**
+### Tools & Technologies:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" alt="Tools & Technologies" />
 </p>
