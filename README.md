@@ -55,17 +55,17 @@
 
 **Languages:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="Languages" />
 </p>
 
 **CSS Frameworks & Libraries:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="CSS Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,daisyui,spline" alt="CSS Frameworks & Libraries" />
 </p>
 
 **JavaScript Frameworks & Libraries:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" alt="JavaScript Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="JavaScript Frameworks & Libraries" />
 </p>
 
 **Database & Model:**
