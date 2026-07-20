@@ -10,7 +10,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mohammed Sana Ullah</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Junior+Frontend+Web+Developer;React+%26+JavaScript+Enthusiast;Continuous+Learner;Passionate+about+UI%2FUX" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;React+%26+JavaScript+Enthusiast;Continuous+Learner;Passionate+about+UI%2FUX" alt="Typing SVG" /></a>
   </ul>
 </div>
 
