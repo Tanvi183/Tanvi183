@@ -61,7 +61,7 @@
 ### CSS Frameworks & Libraries:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,spline" alt="CSS Frameworks & Libraries" />
-  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="daisyUI" />
+  <img src="daisyui.svg" alt="daisyUI" />
 </p>
 
 ### Frameworks & Libraries:
