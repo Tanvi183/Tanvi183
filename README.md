@@ -24,7 +24,7 @@
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[Tanvi183](https://mohammed-sana-portfolio-10.vercel.app/)** and My **[Resume](#)**
 - 🎯 My current goal is improving **UI/UX and frontend performance**, and learning best practices for scalable Full-Stack Website development.
-- 📫 Feel free to reach me out **[Email](mailto:mneshat7@gmail.com)**
+- 📫 Feel free to reach me out **[Email](mailto:sanaullahtanvi183@gmail.com)**
   
 <br/>
 
@@ -39,7 +39,7 @@
     <a href="https://linkedin.com/in/mohammed-sana-ullah-tanvi380949" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:mneshat7@gmail.com" target="_blank">
+    <a href="mailto:sanaullahtanvi183@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Tanvi183" target="_blank">
@@ -51,27 +51,41 @@
 <br/>
 
 <!--- tech-stack --->
-## 💻 <b>TECH STACK:</b>
+## 💻 <b>TECHNOLOGY STACK:</b>
 
-### 🎨 Frontend
+**Languages:**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql,python" alt="Languages" />
 </p>
 
-### ⚙️ Backend
+**CSS Frameworks & Libraries:**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,firebase,mongodb,mysql,php,laravel,redis" alt="Backend Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap" alt="CSS Frameworks & Libraries" />
 </p>
 
-### 🧰 Tools & Technologies
+**JavaScript Frameworks & Libraries:**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,wordpress" alt="Tools" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express" alt="JavaScript Frameworks & Libraries" />
+</p>
+
+**Database & Model:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase" alt="Database & Model" />
+</p>
+
+**Deployment Platform:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" alt="Deployment Platform" />
+</p>
+
+**Design & Graphics:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design & Graphics" />
+</p>
+
+**Tools & Technologies:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" alt="Tools & Technologies" />
 </p>
 
 <br/>
